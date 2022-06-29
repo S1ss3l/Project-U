@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History and lore of the world/Absurdism.md",
+            "file": "History and lore of the world/Campfire story/Jessie's logbook.md",
             "mode": "source",
             "source": true
           }
@@ -17,24 +17,12 @@
         "group": "629a7a11a36db0ab"
       },
       {
-        "id": "465e2632eaa32e03",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "History and lore of the world/The sentients.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
         "id": "f561b643736becc5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History and lore of the world/Absurdism.md",
+            "file": "History and lore of the world/Campfire story/Jessie's logbook.md",
             "mode": "preview",
             "source": true
           }
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History and lore of the world/The sentients.md",
+                "file": "History and lore of the world/Campfire story/Jessie's logbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +101,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "465e2632eaa32e03",
+  "active": "81943bced6d646a1",
   "lastOpenFiles": [
+    "History and lore of the world/Campfire story/Jessie's logbook.md",
     "History and lore of the world/The sentients.md",
     "History and lore of the world/Absurdism.md",
     "History and lore of the world/Hope.md",
-    "History and lore of the world/Campfire story/Jessie's logbook.md",
     "History and lore of the world/Campfire story/How your grandpa became the symbol of badass.md",
     "History and lore of the world/Departure.md",
     "History and lore of the world/World.md",
