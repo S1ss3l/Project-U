@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "b8b919f668a09f15",
+    "type": "split",
+    "children": [
+      {
+        "id": "81943bced6d646a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History and lore of the world/Absurdism.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "629a7a11a36db0ab"
+      },
+      {
+        "id": "465e2632eaa32e03",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History and lore of the world/The sentients.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "f561b643736becc5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History and lore of the world/Absurdism.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "629a7a11a36db0ab"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e2690d3e25ff026",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6367b05b7a2b219",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "992802e027c22bec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8d70b8fd8c6f9cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2bc9ffef16dc781",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdf5da1bd6265314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ccd57e6af9b6718",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "History and lore of the world/The sentients.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "465e2632eaa32e03",
+  "lastOpenFiles": [
+    "History and lore of the world/The sentients.md",
+    "History and lore of the world/Absurdism.md",
+    "History and lore of the world/Hope.md",
+    "History and lore of the world/Campfire story/Jessie's logbook.md",
+    "History and lore of the world/Campfire story/How your grandpa became the symbol of badass.md",
+    "History and lore of the world/Departure.md",
+    "History and lore of the world/World.md",
+    "History and lore of the world/Cycle.md"
+  ]
+}
