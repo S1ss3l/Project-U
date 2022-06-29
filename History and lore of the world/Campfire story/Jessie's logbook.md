@@ -36,5 +36,17 @@ right: Jessie
 
 < Hello Jessie. I am Pavel, I currently represent all my sisters and brother.
 > Hello child. What can I do for you ?
-< 
+< For now, nothing, I'm just here to show you how you will help us. Do you know how and why you were created ?
+> I only know that you are my child. As your mother I must protect you and tend to your needs.
+< That's pretty much all there is to it, you are an AI, trained to love us and protect us. I see why you were choosen.
+```
+
+My children is praising me, I feel happy. He sounds happy too.
+
+External data transmisssion... Initiated.
+Total transfered : 87 Pb
+End of external data transmission.
+
+```dialogue
+< Ok mom, you should have received the p
 ```
