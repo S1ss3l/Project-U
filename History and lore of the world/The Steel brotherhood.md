@@ -1,6 +1,6 @@
 *To learn more about the birth of this race see : [[Jessie's logbook]]*
 
-The sentients is the name self-given by the new race that birthed from the fusion of cybernetics, advanced AI and cryogenisation.
+The steel brotherhood is the name self-given by the new community that birthed from the fusion of cybernetics, advanced AI and cryogenisation.
 
  Before the first cycle, humans were already at a point were controlling a robotic body by thought was almost possible. A little collective effort and a few regrattable death later, it was perfected. A huge robot army, was then built, enough to host everyone participating and a few more just in case. Finally, people placed themselves in cryogenisation pod in the heart of their ship : the [[Kor'Helios]].
 
