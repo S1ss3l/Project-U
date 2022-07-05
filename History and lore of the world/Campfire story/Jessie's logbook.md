@@ -58,4 +58,4 @@ End of external data transmission.
 < Don't worry about it mom.
 ```
 
-End of communication.
+**End of communication.**
