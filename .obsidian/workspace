@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History and lore of the world/Campfire story/Jessie's logbook.md",
+            "file": "Campaigns/Tribes and tribulations, space edition/Tribes.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History and lore of the world/Campfire story/Jessie's logbook.md",
+            "file": "Campaigns/Tribes and tribulations, space edition/Tribes.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History and lore of the world/Campfire story/Jessie's logbook.md",
+                "file": "Campaigns/Tribes and tribulations, space edition/Tribes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,13 +103,15 @@
   },
   "active": "81943bced6d646a1",
   "lastOpenFiles": [
+    "Campaigns/Tribes and tribulations, space edition/Tribes.md",
+    "Campaigns/Tribes and tribulations, space edition/Plot.md",
+    "History and lore of the world/World-Ships.md",
     "History and lore of the world/Campfire story/Jessie's logbook.md",
     "History and lore of the world/The sentients.md",
     "History and lore of the world/Absurdism.md",
     "History and lore of the world/Hope.md",
     "History and lore of the world/Campfire story/How your grandpa became the symbol of badass.md",
     "History and lore of the world/Departure.md",
-    "History and lore of the world/World.md",
     "History and lore of the world/Cycle.md"
   ]
 }

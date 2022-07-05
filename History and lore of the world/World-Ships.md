@@ -1,5 +1,5 @@
-Worlds are the second mega-structure ever built by humanity (the first being the [[Hyperopolis]]. Inspired by the flagship used in deep space manned mission WL-Omega "Behemoth" serie. They are the largest spaceship ever made.
-So far, 7 worlds have been created : [[Hope]], [[Kor'Helios]], [[Wokan'hal]], [[Jyan'Pul]], [[Dragotsennosti]], [[Tutkimusmatkailija]], [[Jĩngyàn]] and no project of an 8th are or were discuted altough it could be done.
+Worlds-Ships are the second mega-structure ever built by humanity (the first being the [[Hyperopolis]]. Inspired by the flagship used in deep space manned mission WL-Omega "Behemoth" serie. They are the largest spaceship ever made.
+So far, 7 worlds have been created : [[Hope]], [[Kor'Helios]], [[Wokan'hal]], [[Jyan'Pul]], [[Dragotsennosti]], [[Tutkimusmatkailija]], [[Jĩngyàn]].
 
 ### Components
 #### Bio-sphere
