@@ -12,4 +12,5 @@ Two similar tribes of bees and ants. They function as one individual, the queen 
 They can't use advanced weapons and are not too advanced in term of warfare tactics but what they lack in quality they make up in quantity. A raid can be constituted of up to thousands of individuals, wich upon death can be replaced almost as fast by the queens.
 They mastered the very basics of agriculture but still rely on a hunter-gatherer lifestyle.
 ### The Trappers
+
 ### The Roamer
