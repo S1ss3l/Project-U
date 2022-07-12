@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaigns/Tribes and tribulations, space edition/Tribes.md",
+            "file": "Campaigns/Tribes and tribulations, space edition/Tribes/Fly Queen.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaigns/Tribes and tribulations, space edition/Tribes.md",
+            "file": "Campaigns/Tribes and tribulations, space edition/Tribes/Fly Queen.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Tribes and tribulations, space edition/Tribes.md",
+                "file": "Campaigns/Tribes and tribulations, space edition/Tribes/Fly Queen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "81943bced6d646a1",
   "lastOpenFiles": [
-    "Campaigns/Tribes and tribulations, space edition/Tribes.md",
+    "Campaigns/Tribes and tribulations, space edition/Tribes/Fly Queen.md",
+    "Campaigns/Tribes and tribulations, space edition/Tribes/Tribes Overview.md",
+    "Campaigns/Tribes and tribulations, space edition/Tribes/Leaf Queen.md",
+    "Campaigns/Tribes and tribulations, space edition/Tribes/The Undergrounder.md",
+    "Campaigns/Tribes and tribulations, space edition/Tribes/The Roamer.md",
+    "Campaigns/Tribes and tribulations, space edition/Tribes/The Trappers.md",
     "Campaigns/Tribes and tribulations, space edition/Player side Plot.md",
-    "History and lore of the world/The Steel brotherhood.md",
-    "History and lore of the world/World-Ships.md",
-    "History and lore of the world/Campfire story/Jessie's logbook.md",
-    "History and lore of the world/Absurdism.md",
-    "History and lore of the world/Hope.md",
-    "History and lore of the world/Campfire story/How your grandpa became the symbol of badass.md",
-    "History and lore of the world/Departure.md",
-    "History and lore of the world/Cycle.md"
+    "Campaigns/Tribes and tribulations, space edition/Tribes/The Black Feather.md",
+    "Campaigns/Tribes and tribulations, space edition/Untitled.md",
+    "History and lore of the world/The Steel brotherhood.md"
   ]
 }
