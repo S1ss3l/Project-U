@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gameplay Manual/Class/Soldier.md",
+            "file": "Gameplay Manual/Class/Assassin.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gameplay Manual/Class/Soldier.md",
+            "file": "Gameplay Manual/Class/Assassin.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay Manual/Class/Soldier.md",
+                "file": "Gameplay Manual/Class/Assassin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f561b643736becc5",
+  "active": "81943bced6d646a1",
   "lastOpenFiles": [
+    "Gameplay Manual/Class/Assassin.md",
+    "Gameplay Manual/Subclass/Logistician.md",
+    "Gameplay Manual/Subclass/Engineer.md",
+    "Gameplay Manual/Subclass/Hacker.md",
+    "Gameplay Manual/Subclass/Medic.md",
+    "Gameplay Manual/Class/Leader.md",
+    "Gameplay Manual/Class/Tactician.md",
     "Gameplay Manual/Class/Soldier.md",
     "Gameplay Manual/Class.md",
-    "Gameplay Manual/Subclass.md",
-    "Campaigns/Tribes and tribulations, space edition/Tribes/Fly Queen.md",
-    "Campaigns/Tribes and tribulations, space edition/Tribes/Tribes Overview.md",
-    "Campaigns/Tribes and tribulations, space edition/Tribes/Leaf Queen.md",
-    "Campaigns/Tribes and tribulations, space edition/Tribes/The Undergrounder.md",
-    "Campaigns/Tribes and tribulations, space edition/Tribes/The Roamer.md",
-    "Campaigns/Tribes and tribulations, space edition/Tribes/The Trappers.md",
-    "Campaigns/Tribes and tribulations, space edition/Player side Plot.md"
+    "Gameplay Manual/Subclass.md"
   ]
 }
