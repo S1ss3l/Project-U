@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaigns/Tribes and tribulations, space edition/Tribes/Fly Queen.md",
+            "file": "Gameplay Manual/Class/Soldier.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaigns/Tribes and tribulations, space edition/Tribes/Fly Queen.md",
+            "file": "Gameplay Manual/Class/Soldier.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/Tribes and tribulations, space edition/Tribes/Fly Queen.md",
+                "file": "Gameplay Manual/Class/Soldier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "81943bced6d646a1",
+  "active": "f561b643736becc5",
   "lastOpenFiles": [
+    "Gameplay Manual/Class/Soldier.md",
+    "Gameplay Manual/Class.md",
+    "Gameplay Manual/Subclass.md",
     "Campaigns/Tribes and tribulations, space edition/Tribes/Fly Queen.md",
     "Campaigns/Tribes and tribulations, space edition/Tribes/Tribes Overview.md",
     "Campaigns/Tribes and tribulations, space edition/Tribes/Leaf Queen.md",
     "Campaigns/Tribes and tribulations, space edition/Tribes/The Undergrounder.md",
     "Campaigns/Tribes and tribulations, space edition/Tribes/The Roamer.md",
     "Campaigns/Tribes and tribulations, space edition/Tribes/The Trappers.md",
-    "Campaigns/Tribes and tribulations, space edition/Player side Plot.md",
-    "Campaigns/Tribes and tribulations, space edition/Tribes/The Black Feather.md",
-    "Campaigns/Tribes and tribulations, space edition/Untitled.md",
-    "History and lore of the world/The Steel brotherhood.md"
+    "Campaigns/Tribes and tribulations, space edition/Player side Plot.md"
   ]
 }
