@@ -23,7 +23,7 @@
           "type": "markdown",
           "state": {
             "file": "Gameplay Manual/Class/Assassin.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         },
@@ -112,15 +112,15 @@
   },
   "active": "81943bced6d646a1",
   "lastOpenFiles": [
-    "Gameplay Manual/Skills/Per Class.md",
+    "Gameplay Manual/Class/Untitled.md",
     "Gameplay Manual/Class/Assassin.md",
+    "Gameplay Manual/Skills/Per Class.md",
     "Gameplay Manual/Subclass/Logistician.md",
     "Gameplay Manual/Subclass/Engineer.md",
     "Gameplay Manual/Subclass/Hacker.md",
     "Gameplay Manual/Subclass/Medic.md",
     "Gameplay Manual/Class/Leader.md",
     "Gameplay Manual/Class/Tactician.md",
-    "Gameplay Manual/Class/Soldier.md",
-    "Gameplay Manual/Class.md"
+    "Gameplay Manual/Class/Soldier.md"
   ]
 }

@@ -1,4 +1,5 @@
 ### Overview
+Strong against [[Leader]]
 ### Unique Skill
 ### Skill Tree
 ```mermaid
@@ -19,6 +20,6 @@ lvl4.1 --> lvl5.2[Dash]
 lvl4.3 --> lvl5.3[Full Stop]
 %% Sword Tree
 %% Unarmed Tree 
-%% Sniper Tree
+%% SniLeaderper Tree
 ```
 ### Leveling Table
