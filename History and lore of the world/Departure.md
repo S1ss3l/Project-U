@@ -1,5 +1,5 @@
 ...And they built the first ship wich name mean [[Hope]]. With that one they traveled the solar system and constructed 6 other ship, enough to host all of humanity. Those ships were called [[World-Ships]], for they were not planet but home nontheless.
-Their name is : [[Kor'Helios]], [[Wokan'hal]], [[Jyan'Pul Legacy]], [[Dragotsennosti]], [[Tutkimusmatkailija]], [[Jĩngyàn]]. 3 named after the heros of the first world, 3 named after what they all symbolised.
+Their name is : [[Kor'Helios]], [[Wokan'hal]], [[Jyan'Pul]], [[Dragotsennosti]], [[Tutkimusmatkailija]], [[Jĩngyàn]]. 3 named after the heros of the first world, 3 named after what they all symbolised.
 
 The exact date was lost from history when we traded the old time system to the new coordinated one, but it was around the beginning of the old year that humanity collectively boarded the ship. Of course many remained on the old earth, what happened to them is not known. A pact was made so that each civilisation would leave each other alone, regardless of the outcome for either. We wished them the best and mourned for we never saw thm again.
 

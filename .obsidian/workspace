@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,6 +112,7 @@
   "active": "81943bced6d646a1",
   "lastOpenFiles": [
     "History and lore of the world/Departure.md",
+    "History and lore of the world/World-Ships.md",
     "History and lore of the world/Campfire story/Jyan'Pul Legacy.md",
     "History and lore of the world/Campfire story/Jessie's logbook.md",
     "Gameplay Manual/Class/Assassin.md",
@@ -120,7 +120,6 @@
     "Gameplay Manual/Skills/Per Class.md",
     "Gameplay Manual/Subclass/Logistician.md",
     "Gameplay Manual/Subclass/Engineer.md",
-    "Gameplay Manual/Subclass/Hacker.md",
-    "Gameplay Manual/Subclass/Medic.md"
+    "Gameplay Manual/Subclass/Hacker.md"
   ]
 }
