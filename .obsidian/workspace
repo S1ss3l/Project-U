@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gameplay Manual/Class/Assassin.md",
+            "file": "Gameplay Manual/Skills/Per Class.md",
             "mode": "source",
             "source": true
           }
@@ -17,17 +17,36 @@
         "group": "629a7a11a36db0ab"
       },
       {
-        "id": "f561b643736becc5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Gameplay Manual/Class/Assassin.md",
-            "mode": "preview",
-            "source": true
+        "id": "82089a11c139381d",
+        "type": "split",
+        "children": [
+          {
+            "id": "f561b643736becc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay Manual/Skills/Per Class.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "629a7a11a36db0ab"
+          },
+          {
+            "id": "11ef9527d0c05506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay Manual/Class/Assassin.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        },
-        "group": "629a7a11a36db0ab"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -83,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay Manual/Class/Assassin.md",
+                "file": "Gameplay Manual/Skills/Per Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,8 +112,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "2c99311f5b578a24",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,6 +132,7 @@
   "active": "81943bced6d646a1",
   "lastOpenFiles": [
     "Gameplay Manual/Class/Assassin.md",
+    "Gameplay Manual/Skills/Per Class.md",
     "Gameplay Manual/Subclass/Logistician.md",
     "Gameplay Manual/Subclass/Engineer.md",
     "Gameplay Manual/Subclass/Hacker.md",
@@ -111,7 +140,6 @@
     "Gameplay Manual/Class/Leader.md",
     "Gameplay Manual/Class/Tactician.md",
     "Gameplay Manual/Class/Soldier.md",
-    "Gameplay Manual/Class.md",
-    "Gameplay Manual/Subclass.md"
+    "Gameplay Manual/Class.md"
   ]
 }
