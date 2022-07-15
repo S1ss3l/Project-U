@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gameplay Manual/Class/Assassin.md",
+            "file": "History and lore of the world/Campfire story/Jyan'Pul.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gameplay Manual/Class/Assassin.md",
+            "file": "History and lore of the world/Campfire story/Jyan'Pul.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay Manual/Class/Assassin.md",
+                "file": "History and lore of the world/Campfire story/Jyan'Pul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f561b643736becc5",
+  "active": "81943bced6d646a1",
   "lastOpenFiles": [
-    "Gameplay Manual/Class/Untitled.md",
+    "History and lore of the world/Departure.md",
+    "History and lore of the world/Campfire story/Jyan'Pul.md",
+    "History and lore of the world/Campfire story/Jessie's logbook.md",
     "Gameplay Manual/Class/Assassin.md",
+    "Gameplay Manual/Class/Untitled.md",
     "Gameplay Manual/Skills/Per Class.md",
     "Gameplay Manual/Subclass/Logistician.md",
     "Gameplay Manual/Subclass/Engineer.md",
     "Gameplay Manual/Subclass/Hacker.md",
-    "Gameplay Manual/Subclass/Medic.md",
-    "Gameplay Manual/Class/Leader.md",
-    "Gameplay Manual/Class/Tactician.md",
-    "Gameplay Manual/Class/Soldier.md"
+    "Gameplay Manual/Subclass/Medic.md"
   ]
 }
