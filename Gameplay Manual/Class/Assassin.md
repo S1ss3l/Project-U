@@ -23,7 +23,7 @@ lvl4.3 --> lvl5.3[Full Stop]
 | Level |                   Gain                    |
 |:-----:|:-----------------------------------------:|
 |   1   | Unique Skill, +1 Precision, +1 Reputation |
-|   2   |                  +1 SkP, +                   | 
+|   2   |                  +1 Skill point,                    | 
 |   3   |                                           |
 |   4   |                                           |
 |   5   |                                           |
