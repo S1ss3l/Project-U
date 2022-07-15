@@ -17,13 +17,8 @@ lvl2.5 --> lvl4.3{{+1 Damage}}
 lvl4.2 --> lvl5.1[Parry]
 lvl4.1 --> lvl5.2[Dash]
 lvl4.3 --> lvl5.3[Full Stop]
-
+%% Sword Tree
+%% Unarmed Tree 
+%% Sniper Tree
 ```
 ### Leveling Table
-| Level |                   Gain                    |
-|:-----:|:-----------------------------------------:|
-|   1   | Unique Skill, +1 Precision, +1 Reputation |
-|   2   |                  +1 Skill point,                    | 
-|   3   |                                           |
-|   4   |                                           |
-|   5   |                                           |
