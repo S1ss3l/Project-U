@@ -1,0 +1,1 @@
+A war, a pandemic and mutinery. It was all it took to wipe us out completely. Now only us 5 remain. We are currently locked in one of the panic room near the black core. Out of ammo, time and luck. I'm pretty sure one of the guys is infected, he had a fever 
