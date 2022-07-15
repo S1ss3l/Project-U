@@ -12,6 +12,10 @@ lvl1.3 & lvl1.2 --> lvl2.2[Steady Hand]
 lvl1.2 --> lvl2.4(+1 Precision)
 lvl1.2 --> lvl2.5(+1 Strength) 
 lvl2.4 & lvl2.2-->lvl4.1{{+1 Aim}}
-lvl2.3 & lvl2.1 --> lvl4.2{{+1 Damage}}
+lvl2.3 & lvl2.1 --> lvl4.2{{+1 Speed}}
+lvl2.5 --> lvl4.3{{+1 Damage}}
+lvl4.2 --> lvl5.1[Parry]
+lvl4.1 --> lvl5.2[Dash]
+lvl4.3 --> lvl5.3[Full Stop]
 ```
 ### Leveling Table
