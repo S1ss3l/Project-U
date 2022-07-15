@@ -20,6 +20,6 @@ lvl4.1 --> lvl5.2[Dash]
 lvl4.3 --> lvl5.3[Full Stop]
 %% Sword Tree
 %% Unarmed Tree 
-%% SniLeaderper Tree
+%% Sniper Tree
 ```
 ### Leveling Table

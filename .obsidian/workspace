@@ -23,7 +23,7 @@
           "type": "markdown",
           "state": {
             "file": "Gameplay Manual/Class/Assassin.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         },
@@ -110,7 +110,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "81943bced6d646a1",
+  "active": "f561b643736becc5",
   "lastOpenFiles": [
     "Gameplay Manual/Class/Untitled.md",
     "Gameplay Manual/Class/Assassin.md",
