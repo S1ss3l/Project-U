@@ -20,3 +20,10 @@ lvl4.3 --> lvl5.3[Full Stop]
 
 ```
 ### Leveling Table
+| Level |                   Gain                    |
+|:-----:|:-----------------------------------------:|
+|   1   | Unique Skill, +1 Precision, +1 Reputation |
+|   2   |                  +1 SkP, +                   | 
+|   3   |                                           |
+|   4   |                                           |
+|   5   |                                           |

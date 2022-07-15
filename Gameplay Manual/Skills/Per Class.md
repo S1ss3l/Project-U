@@ -1,9 +1,10 @@
  # Assassin
-| Level |        Name        |                               Description                               |    Cooldown     | Cost  |           Require            |
-|:-----:|:------------------:|:-----------------------------------------------------------------------:|:---------------:|:-----:|:----------------------------:|
-|   1   |  Surgical Strike   |              You can incapacitate an enemie at close range              | Once per combat |   X   |              X               |
-|   3   | Shield Destruction |                  Destroy the shield core of an enemie                   |     5 turns     | 20 SP | Cutting or Slash type weapon |
-|   3   |    Steady Hand     | Negate the recoil penalty of manual weapon, allow to chain up to 5 shot |     6 Turns     |   X   | Manual Weapon (with recoil)  |
-|   5   |       Parry        |                                                                         |                 |       |                              |
-|   5   |        Dash        |                                                                         |                 |       |                              |
-|   5   |     Full Stop      |                                                                         |                 |       |                              |
+| Level |        Name        |                                                                                Description                                                                                |    Cooldown     | Cost  |           Require           |
+|:-----:|:------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|:-----:|:---------------------------:|
+|   1   |  Surgical Strike   |                                                               You can incapacitate an enemie at close range                                                               | Once per combat |   X   |              X              |
+|   3   | Shield Destruction |                                                                   Destroy the shield core of an enemie                                                                    |     5 turns     | 20 SP |     Cutting type weapon     |
+|   3   |    Steady Hand     |                                                  Negate the recoil penalty of manual weapon, allow to chain up to 5 shot                                                  |     6 Turns     | 10 SP | Manual Weapon (with recoil) |
+|   5   |       Parry        |                                 If the enemie aim is lower than d20 + your speed, you negate the attack (work only on close range weapon)                                 |        X        |   X   |     Cutting type weapon     |
+|   5   |        Dash        | For the remaining turn, you move so fast that your new position keep the cover bonus of the position you had the turn before. Gain +3 Speed for the next movement action. |     3 Turns     |   X   |      Weight stat < 50%      |
+|   5   |     Full Stop      |       Enter a meditative state, slow your heart rate dramatically and allow you to take 1 precision shot that deals triple damage. You can't move on the same turn.       |        X        |   X   |     Sniper type weapon      |
+|       |                    |                                                                                                                                                                           |                 |       |                             |
