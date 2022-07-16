@@ -14,4 +14,10 @@ After that 6 month point, we entered into a 1 year period where we would find on
 
 After a year and a half of this hell, we were pretty sure we won and killed every last Wirkinz, and indeed we didn't saw more of them later. And it went only downhill from there. The first sign of infection did show during the Wirkinz war but we were living in small group of 5 to 10 person. A dead group only meant a win for the Wirkinz at that time. It's only when we all regrouped that we noticed the significant drop in population. From 1 Billion we were down to 800 000 Milions.
 
-When 
+When we realized the Wirkinz couldn't have done that, it was already too late. Having celebrated the victory, the virus had ample time to spread and multiply. Being a silent infection at first (meaning no symptoms) it was all too easy for it to spread to a large part of the population.
+
+The infection has a 100% death rate, we just could not find neither a cure nor a natural immunity. It wasn't the first time we had to fight an infection that deadly but when we noticed it was already too late. We estimated around 60% of people infected in the first month.
+
+The infection works in 3 stages, the first is asymptomatic, the virus go from the [muqueuse] to the nervous system. You can still infect others at this time.
+Second stage is the only one when you can't infect others, the virus begin to infect the brain. It leads to a fever, headache, nausea, vomiting, sweating and a characteristic speach loss.
+Third stage is why we are all dead now. It's when the infected are the most contagious, the virus has totally taken over the brain and begin manipulating the patient. It's not unlike the old earth rabbies. Patient feel a strong thirst but become highly hydrophobic. They show extreme agressive behaviour, 
