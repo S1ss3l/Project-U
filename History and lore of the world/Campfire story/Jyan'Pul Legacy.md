@@ -25,4 +25,17 @@ Third stage is why we are all dead now. It's when the infected are the most cont
 We failed to come with a cure and slowly began accepting we'd be down 70% to 90% of our initial population. As much as a heavy blow it was, we were in no place to begin grieving. The last blows we dealt to ourselves. 
 
 We began fighting around what to do with the infected. Most of us had friends and family infected, killing everyone was unthinkable for some and for the ones who had all their relatives healthy, the obvious solution.
-A lot of back and forth later,
+It was decided to try and search for a cure a while longer. We were down to 100 000 souls at this point. We all split in small team of up to 100 scientist and guards. Over the course of a year, everybody died. My team almost did not make it too, with the ship overrrun, some infected using guns and ships defense system. The hunger, the thirst, the risk of manipulating an unknown virus. It was a fool's gamble and we lost it.
+
+...
+
+Jeff was indeed infected. Attacked Lano upon waking up this morning. I shot both. Had to shot Lano's wife too, she was about to kill me. We're down to me and my buddy Pavel, he's guarding us both while I write the finals word.
+
+I hope you all can see why we didn't last too long. We forgot the threat of death for so long we lost our suvival instinct.
+
+I don't have much things left to say, nor time to write them down. I'll join all our finding about that virus in case it's usefull in the future. I'll also join a copy of every access code I have on the ship, might be usefull to whomever find it in the far future. I sure hope the black core last that long.
+
+We will not shot ourselves, we will try and make a beeline for the navigation module, if we succeed we will be able to escape. Who knows, the less I think about it the more I think we will make it. don't have time to be philosophical now, but be carefull future people we are not invincible.
+
+farewell, 
+Hanna, Pavel.
