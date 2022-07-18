@@ -22,7 +22,8 @@ The infection works in 3 stages, the first is asymptomatic, the virus go from th
 Second stage is the only one when you can't infect others, the virus begin to infect the brain. It causes to a fever, headache, nausea, vomiting, sweating and a characteristic speach loss.
 Third stage is why we are all dead now. It's when the infected are the most contagious, the virus has totally taken over the brain and begin manipulating the patient. It's not unlike the old earth rabbies. Patient feel a strong thirst but become highly hydrophobic. They show extreme agressive behaviour, total inhibition to pain and developp cannibal habit. The virus is spread mainly from bite at this point. Infected patient tend to not attack each other too much, it was suspected that there was a form of pheromon communication going on but really at this point survival was a more pressing matter.
 
-We failed to come with a cure and slowly began accepting we'd be down 70% to 90% of our initial population. As much as a heavy blow it was, we were in no place to begin grieving. The last blows we dealt to ourselves. 
+We failed to come with a cure and slowly began accepting we'd be down 70% to 90% of our initial population. As much as a heavy blow it was, we were in no place to begin grieving. 
+The last blows we dealt to ourselves. 
 
 We began fighting around what to do with the infected. Most of us had friends and family infected, killing everyone was unthinkable for some and for the ones who had all their relatives healthy, the obvious solution.
 It was decided to try and search for a cure a while longer. We were down to 100 000 souls at this point. We all split in small team of up to 100 scientist and guards. Over the course of a year, everybody died. My team almost did not make it too, with the ship overrrun, some infected using guns and ships defense system. The hunger, the thirst, the risk of manipulating an unknown virus. It was a fool's gamble and we lost it.
@@ -31,11 +32,18 @@ It was decided to try and search for a cure a while longer. We were down to 100 
 
 Jeff was indeed infected. Attacked Lano upon waking up this morning. I shot both. Had to shot Lano's wife too, she was about to kill me. We're down to me and my buddy Pavel, he's guarding us both while I write the finals word.
 
-I hope you all can see why we didn't last too long. We forgot the threat of death for so long we lost our suvival instinct.
+I hope you all can see why we didn't last too long. We forgot the threat of death for so long we lost our suvival instinct. Might be cold to shoot one of your best friend to save your life but here am I writing the last word of our whole community.
 
 I don't have much things left to say, nor time to write them down. I'll join all our finding about that virus in case it's usefull in the future. I'll also join a copy of every access code I have on the ship, might be usefull to whomever find it in the far future. I sure hope the black core last that long.
 
-We will not shot ourselves, we will try and make a beeline for the navigation module, if we succeed we will be able to escape. Who knows, the less I think about it the more I think we will make it. don't have time to be philosophical now, but be carefull future people we are not invincible.
+We will not shot ourselves, we will try and make a beeline for the navigation module, if we succeed we will be able to escape. 
+who knows, 
+the less I think about it the more 
+I think we will 
+make it.
+
+don't have time to be philosophical now,
+but be carefull future people we are not invincible.
 
 farewell, 
 Hanna, Pavel.
