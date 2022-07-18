@@ -18,6 +18,11 @@ When we realized the Wirkinz couldn't have done that, it was already too late. H
 
 The infection has a 100% death rate, we just could not find neither a cure nor a natural immunity. It wasn't the first time we had to fight an infection that deadly but when we noticed it was already too late. We estimated around 60% of people infected in the first month.
 
-The infection works in 3 stages, the first is asymptomatic, the virus go from the [muqueuse] to the nervous system. You can still infect others at this time.
-Second stage is the only one when you can't infect others, the virus begin to infect the brain. It leads to a fever, headache, nausea, vomiting, sweating and a characteristic speach loss.
-Third stage is why we are all dead now. It's when the infected are the most contagious, the virus has totally taken over the brain and begin manipulating the patient. It's not unlike the old earth rabbies. Patient feel a strong thirst but become highly hydrophobic. They show extreme agressive behaviour, 
+The infection works in 3 stages, the first is asymptomatic, the virus go from the mucosa to the nervous system. You can still infect others at this time.
+Second stage is the only one when you can't infect others, the virus begin to infect the brain. It causes to a fever, headache, nausea, vomiting, sweating and a characteristic speach loss.
+Third stage is why we are all dead now. It's when the infected are the most contagious, the virus has totally taken over the brain and begin manipulating the patient. It's not unlike the old earth rabbies. Patient feel a strong thirst but become highly hydrophobic. They show extreme agressive behaviour, total inhibition to pain and developp cannibal habit. The virus is spread mainly from bite at this point. Infected patient tend to not attack each other too much, it was suspected that there was a form of pheromon communication going on but really at this point survival was a more pressing matter.
+
+We failed to come with a cure and slowly began accepting we'd be down 70% to 90% of our initial population. As much as a heavy blow it was, we were in no place to begin grieving. The last blows we dealt to ourselves. 
+
+We began fighting around what to do with the infected. Most of us had friends and family infected, killing everyone was unthinkable for some and for the ones who had all their relatives healthy, the obvious solution.
+A lot of back and forth later,
